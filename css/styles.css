@@ -113,4 +113,8 @@ hr {
     .card {
         max-width: 100%;
     }
+  
+      .top, .bottom {
+        display: none;
+    }
 }
