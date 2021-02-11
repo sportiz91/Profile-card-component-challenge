@@ -111,7 +111,7 @@ hr {
 
 @media (max-width: 375px) {
     .card {
-        max-width: 100%;
+        max-width: 90%;
     }
   
        .top, .bottom {
