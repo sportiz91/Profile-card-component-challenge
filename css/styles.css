@@ -109,7 +109,7 @@ hr {
   top: 350px;
 }
 
-@media (max-width: 1440px) {
+@media (max-width: 375px) {
     .card {
         max-width: 100%;
     }
