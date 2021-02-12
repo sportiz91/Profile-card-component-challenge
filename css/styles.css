@@ -113,12 +113,18 @@ hr {
 
 @media (max-width: 375px) {
 
-.card {
-  max-width: 100%;
-}
+  .card {
+    max-width: 100%;
+  }
   
-.top, .bottom {
-  display: none;
-}
-
+  .top {
+    width: 28em;
+    transform: translate(-50%, -50%);
+  }
+  
+  .bottom {
+    width: 28em;
+    transform: translate(50%, 50%);
+  }
+  
 }
