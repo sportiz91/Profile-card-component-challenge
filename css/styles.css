@@ -117,12 +117,8 @@ hr {
   max-width: 100%;
 }
   
-.top {
-  transform: translate(-50%, -50%);
-}
-
-.bottom {
-  transform: translate(50%, 50%);
+.top, .bottom {
+  display: none;
 }
 
 }
