@@ -111,7 +111,7 @@ hr {
   font-size: 15px;
 }
 
-@media only screen and (max-width: 375px) {
+@media (max-width: 375px) {
 
 .card {
   max-width: 100%;
